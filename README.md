@@ -16,3 +16,6 @@ The current Supabase project URL and public anon key are configured in the front
 
 ## Deployment
 Pushes to `main` are intended to create production deployments once this repository is connected to Vercel.
+
+## Deployment status
+GitHub is linked to the MR. FICTION Vercel project. Pushes to `main` trigger automatic deployments.
