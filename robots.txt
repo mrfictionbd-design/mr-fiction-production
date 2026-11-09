@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mr-fiction-production.vercel.app/sitemap.xml
